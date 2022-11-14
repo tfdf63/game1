@@ -48,15 +48,15 @@ h2 {
     background-size: 600px;
 }
 .box label:nth-child(1) i {
-    background-image: url("/img/001.png");
+    background-image: url("./img/001.png");
     animation: animate 0.5s steps(3) infinite;
 }
 .box label:nth-child(2) i {
-    background-image: url("/img/002.png");
+    background-image: url("./img/002.png");
     animation: animate 0.4s steps(3) infinite;
 }
 .box label:nth-child(3) i {
-    background-image: url("/img/003.png");
+    background-image: url("./img/003.png");
     animation: animate 0.7s steps(3) infinite;
 }
 @keyframes animate {
