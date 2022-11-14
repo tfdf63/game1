@@ -87,7 +87,7 @@ h2 {
 }
 .match {
     margin-top: 60px;
-    height: 350px;
+    height: 400px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -106,5 +106,6 @@ h2 {
     color: #fff;
 }
 a {
+    margin-bottom: 60px;
     text-decoration: none;
 }
