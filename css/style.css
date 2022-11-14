@@ -85,3 +85,26 @@ h2 {
     background:#d63c3c;
     transform: scale(0.95);
 }
+.match {
+    margin-top: 60px;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+}
+.text {
+    font-size: 18px;
+    line-height: 1.45em;
+}
+.pay {
+    position: relative;
+    border: none;
+    font-size: 1.25em;
+    padding: 10px 25px;
+    background: #333;
+    color: #fff;
+}
+a {
+    text-decoration: none;
+}
