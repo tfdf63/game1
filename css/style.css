@@ -86,8 +86,8 @@ h2 {
     transform: scale(0.95);
 }
 .match {
-    margin-top: 60px;
-    height: 400px;
+    margin-top: 40px;
+    /* height: 450px; */
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -106,7 +106,7 @@ h2 {
     color: #fff;
 }
 a {
-    margin-bottom: 60px;
+    margin: 40px auto;
     text-decoration: none;
 }
 
